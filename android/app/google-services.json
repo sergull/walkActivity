@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470344817172",
+    "project_id": "walkactivity",
+    "storage_bucket": "walkactivity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470344817172:android:9e80ffa5af076f6ef3e501",
+        "android_client_info": {
+          "package_name": "com.walk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470344817172-4jg5t14pp2jf75v9324jpclv5msbae1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZd-pEhCBh3XAJzEluaCeCuqIyNpD7ozk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470344817172-4jg5t14pp2jf75v9324jpclv5msbae1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
